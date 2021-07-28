@@ -2,7 +2,7 @@
 
 # FSiD
 
-Files accompanying CIJ course - Finding Stories in Data
+Files accompanying [CIJ course](https://tcij.org/scheduled-training) - Finding Stories in Data
 
 The files accompany the 4 modules of the course as follows
 
