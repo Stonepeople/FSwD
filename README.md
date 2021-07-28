@@ -19,7 +19,7 @@ The files accompany the 4 modules of the course as follows
 
 **Module 2**
 
--   FindingData.pdf
+-   [FindingData.pdf](https://github.com/Stonepeople/FSiD/blob/main/FindingData.pdf)
 
 -   FollowTheMoney.pdf
 
