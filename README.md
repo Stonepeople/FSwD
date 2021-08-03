@@ -23,12 +23,12 @@ Files accompanying [CIJ course](https://tcij.org/scheduled-training) - Finding S
 -   [Follow the Money](https://github.com/Stonepeople/FSiD/blob/main/FollowTheMoney.pdf) is a set of links to help get you started if you're interested in financial stories
 
 -   A fuller list of advanced operators the [Cheatsheet](https://github.com/Stonepeople/FSiD/blob/main/GoogleguideCheatSheet.pdf) is downloaded from [googleduide.com](http://www.googleguide.com/print/adv_op_ref.pdf). You may also want to read  this excellent [Guide to Google Dorking (another name for advanced searching)](https://exposingtheinvisible.org/guides/google-dorking/) to get a deeper insight into what we did, and how it can help your investigation. It also covers some important security issues. 
--   
+
 -   Links from the [Finding data presentation](https://github.com/Stonepeople/FSiD/blob/main/Links%20from%20FindingData.pdf)
 
 -  a set of generally [useful links](https://github.com/Stonepeople/FSiD/blob/main/USEFUL%20LINKS%20TO%20DATA.pdf) to help get you started
-- 
-- 
+
+
 
 **Module 3**
 
