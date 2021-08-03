@@ -26,6 +26,8 @@ Files accompanying [CIJ course](https://tcij.org/scheduled-training) - Finding S
 
 -   Links from the [Finding data presentation](https://github.com/Stonepeople/FSiD/blob/main/Links%20from%20FindingData.pdf)
 
+The [Awesome Public Datasets repo](https://github.com/awesomedata/awesome-public-datasets) as the name suggests - is awesome!
+
 -  a set of generally [useful links](https://github.com/Stonepeople/FSiD/blob/main/USEFUL%20LINKS%20TO%20DATA.pdf) to help get you started
 
 
