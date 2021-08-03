@@ -1,8 +1,8 @@
 
 
-# FINDING STORIES IN DATA
+# FINDING STORIES WITH DATA
 
-Files accompanying [CIJ course](https://tcij.org/scheduled-training) - Finding Stories in Data
+Files accompanying [CIJ course](https://tcij.org/scheduled-training) - Finding Stories with Data
 
 **Module 1**
 
@@ -14,7 +14,7 @@ Files accompanying [CIJ course](https://tcij.org/scheduled-training) - Finding S
 -   -   If you just want to read about pivot tables [this pdf](https://github.com/Stonepeople/FSiD/blob/main/PIVOT%20TABLES.pdf) is all you need
 
 -   [Spreadsheets for journalists](https://github.com/Stonepeople/FSiD/blob/main/SPREADSHEETS%20FOR%20JOURNALISTS%20HANDOUT.pdf) is the
-    handout I wrote for a one-day course covering everything we now do in the 4 online sessions of Finding Stories in Data
+    handout I wrote for a one-day course covering everything we now do in the 4 online sessions of Finding Stories with Data
 
 **Module 2**
 
