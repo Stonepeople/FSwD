@@ -49,3 +49,8 @@ The files accompany the 4 modules of the course as follows
 **Module 4**
 
 -   [Why visualise](https://github.com/Stonepeople/FSiD/blob/main/Why%20visualise%20CIJ.pdf) is the presentation used in module 4. 
+-   There's a quick introduction to making graphics from spreadsheets in two parts [Part 1](https://youtu.be/CPG3tj2vZYg) takes you raw data to a graph. [PArt 2](https://youtu.be/n3cFrf4pQsc) takes a look at creating a graph from a pivit table. 
+-   [This video](https://youtu.be/Qv-g9XhpOf0) looks at how to do the same thing with Googlesheets
+-   There's a more detailed step-by-step guide to making a visualisation from an Excel pivot table [here](https://youtu.be/Pakq8_hauwI) and from googlesheets [here](https://youtu.be/q4TxXLBpxa8)
+-   [This video](https://youtu.be/Fw0YXqenFoo) looks at choosing the kind of chart most appropriate to the needs of your story. 
+-   
