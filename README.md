@@ -34,7 +34,7 @@ The [Awesome Public Datasets repo](https://github.com/awesomedata/awesome-public
 
 **Module 3**
 
--   Before you get to module 3 itself, we recommend you watch at least the first four videos listed below. 
+-   Before you get to module 3 itself, we recommend you watch at least the first four videos listed below. - Can we be more explicit about which videos this refers to? 
 -   To allow us more time to talk and try out some of the techniques you may need to use to prepare data for analysis, we ask you to watch these videos as preparation for session 3. Rather than spending a whole live session being bombarded with new information, you can come prepared, possibly having had a chance to try some of the techniques for yourself, or ready to ask questions and solve them in the session. 
 -   [ImportHTML](https://youtu.be/pBYRNstn6xA) - converting a table from a web page to a spreadsheet, using Googlesheets
 -   [Clean with Open Refine](https://youtu.be/HCeH8QMHvmQ) - cleaning names in a dataset where slight differences make the computer see them as different entries
