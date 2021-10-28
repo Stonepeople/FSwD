@@ -35,14 +35,14 @@ The [Awesome Public Datasets repo](https://github.com/awesomedata/awesome-public
 **Module 3 prep**
 
 -   Before you attend to module 3 itself, we recommend you watch at least the first four videos:
--   . [ImportHTML](https://youtu.be/pBYRNstn6xA) - converting a table from a web page to a spreadsheet, using Googlesheets
+-   . [ImportHTML](https://youtu.be/h3Nyld3wNzY) - converting a table from a web page to a spreadsheet, using Googlesheets
 -   [Clean with Open Refine](https://youtu.be/HCeH8QMHvmQ) - cleaning names in a dataset where slight differences make the computer see them as different entries
 -   [Export your OpenRefine project](https://youtu.be/UWJIu0Ss4eU) How to convert your data back to Excel/Googlesheets after cleaning it in OpenRefine. The source table is this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2019_United_Kingdom_general_election) if you want to follow the same steps
 -   [Reconcile with Open Refine](https://youtu.be/3CV6rEn0stM) Matching names in a column in OpenRefine with company names on OpenCorporates.com. NB – to make use of the OpenCorporates reconciliation service you need to add this address to the reconciliation menu in OpenRefine https://opencorporates.com/reconcile (see 1.18” in this video). See [here](https://api.opencorporates.com/documentation/Reconciliation_API_documentation_v0.1.pdf) for documentation
 
 **Module 3**
 -   To allow us more time to talk and try out some of the techniques you may need to use to prepare data for analysis, we ask you to watch these videos as preparation for session 3. Rather than spending a whole live session being bombarded with new information, you can come prepared, possibly having had a chance to try some of the techniques for yourself, or ready to ask questions and solve them in the session. 
--   [ImportHTML](https://youtu.be/pBYRNstn6xA) - converting a table from a web page to a spreadsheet, using Googlesheets
+-   [ImportHTML](https://youtu.be/h3Nyld3wNzY) - converting a table from a web page to a spreadsheet, using Googlesheets
 -   [Clean with Open Refine](https://youtu.be/HCeH8QMHvmQ) - cleaning names in a dataset where slight differences make the computer see them as different entries
 -   [Export your OpenRefine project](https://youtu.be/UWJIu0Ss4eU) How to convert your data back to Excel/Googlesheets after cleaning it in OpenRefine. The source table is this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2019_United_Kingdom_general_election) if you want to follow the same steps
 -   [Reconcile with Open Refine](https://youtu.be/3CV6rEn0stM) Matching names in a column in OpenRefine with company names on OpenCorporates.com. NB – to make use of the OpenCorporates reconciliation service you need to add this address to the reconciliation menu in OpenRefine https://opencorporates.com/reconcile (see 1.18” in this video). See [here](https://api.opencorporates.com/documentation/Reconciliation_API_documentation_v0.1.pdf) for documentation
