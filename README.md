@@ -30,7 +30,7 @@ The [Awesome Public Datasets repo](https://github.com/awesomedata/awesome-public
 
 -  a set of generally [useful links](https://github.com/Stonepeople/FSiD/blob/main/USEFUL%20LINKS%20TO%20DATA.pdf) to help get you started
 
-
+These [tabs](https://www.one-tab.com/page/JkfVibrkRyuw8EeOIscRag) will take you to the information and sites in the main presentation
 
 **Module 3 prep**
 
