@@ -1,0 +1,14 @@
+Finding Stories with Data – Module 3
+
+This is a remote module of the 5 module Finding Stories course. It’s intended to give you some challenges based on what we’ve covered so far, and particularly to see what you can do to get data into a specific format. The tools to be used are Excel/Googlesheets, and OpenRefine. Both can do the tasks set here. 
+
+Challenge 1 (optional) – pdf to spreadsheet. This link takes you so a relatively small list (37 names) of House of Commons staff who have declared receipt of Gifts or Hospitality. As in the real world, you may receive such data as a pdf file. Although you can ask the publisher to send it to you as csv/xls, you may want to convert it to those formats yourself. We recommend Tabula, but other methods are available, including CometDocs, see this [review page](https://pdf.wondershare.com/top-pdf-software/best-pdf-to-excel-converter.html)
+
+Challenge 2 – the pdf conversion should give you a file with five columns and 37 rows. (NB – some of the entries in column 5 are so long they make the dataset very wide: in order to simplify the conversion process, we restricted the width of this column, so you will see that your conversion isn’t quite the same as this file – Gifts_visits.xlsx  This makes no difference to these exercises)
+
+Column A contains the staff members’ family names in upper case, and column B their first names. Can you create a new column combining the names, all in one case (ie all upper, or with a capital first letter for each part), with “Firstname Surname”. 
+	Hint – spreadsheet programs can do this using formulas such as UPPER, PROPER, and CONCATENATE. You may also want to try it in OpenRefine and see which you prefer. 
+If you want more practice, try combining the MPs’ names into another new column, in one case, “SURNAME, FIRSTNAME” – ie, with a comma and space after the surname.  
+
+
+
