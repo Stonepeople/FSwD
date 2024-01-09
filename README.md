@@ -32,16 +32,10 @@ The [Awesome Public Datasets repo](https://github.com/awesomedata/awesome-public
 
 These [tabs](https://www.one-tab.com/page/JkfVibrkRyuw8EeOIscRag) will take you to the information and sites in the main presentation
 
-**Module 3 prep**
-
--   Before you attend to module 3 itself, we recommend you watch at least the first four videos:
--   . [ImportHTML](https://youtu.be/h3Nyld3wNzY) - converting a table from a web page to a spreadsheet, using Googlesheets. (At the moment, for reasons unknown, the parliament.uk site will not allow importhtml to work with the [Register of Interests of MPs' Secretaries and Research Assistants](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-secretaries-and-research-assistants/). It still works with Excel, however. No idea what's blocking it!
--   [Clean with Open Refine](https://youtu.be/HCeH8QMHvmQ) - cleaning names in a dataset where slight differences make the computer see them as different entries
--   [Export your OpenRefine project](https://youtu.be/UWJIu0Ss4eU) How to convert your data back to Excel/Googlesheets after cleaning it in OpenRefine. The source table is this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2019_United_Kingdom_general_election) if you want to follow the same steps
--   [Reconcile with Open Refine](https://youtu.be/3CV6rEn0stM) Matching names in a column in OpenRefine with company names on OpenCorporates.com. NB – to make use of the OpenCorporates reconciliation service you need to add this address to the reconciliation menu in OpenRefine https://opencorporates.com/reconcile (see 1.18” in this video). See [here](https://api.opencorporates.com/documentation/Reconciliation_API_documentation_v0.1.pdf) for documentation. OpenCorporates have recently added a security layer to the reconcilication feature: you now need to register your IP address in order for reconciliation to work on your PC. This doesn't take long, and costs nothing, but it will stop you experimenting with reconciliation based on this module. 
-
 **Module 3**
--   To allow us more time to talk and try out some of the techniques you may need to use to prepare data for analysis, we ask you to watch these videos as preparation for session 3. Rather than spending a whole live session being bombarded with new information, you can come prepared, possibly having had a chance to try some of the techniques for yourself, or ready to ask questions and solve them in the session. 
+Module 3 is entirely remote - you do the work in your own time, preferably on day 3 in order to bring any questions or issues you encounter to discussion at the beginning of Module 4.
+
+-  Rather than spending a whole live session being bombarded with new information, you can come prepared, possibly having had a chance to try some of the techniques for yourself, or ready to ask questions and solve them in the session. 
 -   [ImportHTML](https://youtu.be/h3Nyld3wNzY) - converting a table from a web page to a spreadsheet, using Googlesheets
 -   [Clean with Open Refine](https://youtu.be/HCeH8QMHvmQ) - cleaning names in a dataset where slight differences make the computer see them as different entries
 -   [Export your OpenRefine project](https://youtu.be/UWJIu0Ss4eU) How to convert your data back to Excel/Googlesheets after cleaning it in OpenRefine. The source table is this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2019_United_Kingdom_general_election) if you want to follow the same steps
@@ -66,6 +60,9 @@ and
 -   Reconciling lists using OpenRefine is covered in [this pdf](https://github.com/Stonepeople/FSiD/blob/main/Reconciling%20in%20OpenRefine.pdf)
 
 -   [Scraping the web](https://github.com/Stonepeople/FSiD/blob/main/scraping%20the%20web.pdf) is an excellent tipsheet from [IRE](https://www.ire.org/) (it's well worth joining IRE. At around $70 a year it's worth  joining just for the library of tipsheets!)
+
+**Module 4 exercises **
+When you're ready to do some more practice, read [these instructions](https://github.com/Stonepeople/FSwD/commit/328b5776c816050095e3f70fa0f8fe3d7d3fc741)
 
 **Module 4**
 
