@@ -83,3 +83,5 @@ If you want more practice, try combining the MPs’ names into another new colum
 -   [This video](https://youtu.be/Qv-g9XhpOf0) looks at how to do the same thing with Googlesheets
 -   There's a more detailed step-by-step guide to making a visualisation from an Excel pivot table [here](https://youtu.be/Pakq8_hauwI) and from googlesheets [here](https://youtu.be/q4TxXLBpxa8)
 -   [This video](https://youtu.be/Fw0YXqenFoo) looks at choosing the kind of chart most appropriate to the needs of your story
+-   For handouts on choosing the right chart we recommend this interactive page produced by the Financial Times - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+-   For those who like a pdf to refer to, this [Choosing a Chart](https://github.com/Stonepeople/FSwD/blob/main/choosing-a-good-chart-09.pdf) is the one referred to during the course. 
