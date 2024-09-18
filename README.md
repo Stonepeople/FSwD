@@ -60,7 +60,7 @@ and
 -   Although OpenRefine contains links to useful instructional videos, [this pdf](https://github.com/Stonepeople/FSiD/blob/main/OPEN%20REFINE%20STARTER%20NOTES_JS.pdf) is intended as a useful written guide to get you started
 
 -   Reconciling lists using OpenRefine is covered in [this pdf](https://github.com/Stonepeople/FSiD/blob/main/Reconciling%20in%20OpenRefine.pdf)
--   In September 2024 we added an optional presentation on webscraping, which also introduces APIs, and why you need to know about them. The summary of the presentation is in [this pdf](https://1drv.ms/b/s!AkCB08o5241CjMMBLfL69qBakjHa0Q?e=7cp7ei)
+-   In September 2024 we added an optional presentation on webscraping, which also introduces APIs, and why you need to know about them. The summary of the presentation is in [this pdf](https://1drv.ms/b/s!AkCB08o5241CjMMBLfL69qBakjHa0Q?e=qOUpCd)
 -   [Scraping the web](https://github.com/Stonepeople/FSiD/blob/main/scraping%20the%20web.pdf) is an excellent tipsheet from [IRE](https://www.ire.org/) (it's well worth joining IRE. At around $70 a year it's worth  joining just for the library of tipsheets!)
 
 When you're ready to do some more practice, read on:
