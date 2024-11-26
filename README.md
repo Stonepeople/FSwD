@@ -2,7 +2,7 @@
 
 # FINDING STORIES WITH DATA
 
-Files accompanying [CIJ course](https://tcij.org/scheduled-training) Finding Stories with Data
+Files accompanying [CIJ course](https://tcij.org/scheduled-training) Finding Stories IN DATA
 
 **Module 1**
 
